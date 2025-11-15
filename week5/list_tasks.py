@@ -28,3 +28,22 @@ def run_task2():
 
 if __name__ == "__main__":
     run_task2()
+
+#Activity 3
+
+def directions():
+    return ["Move forward" , "Move backward" , "Turn left" , "Turn right"]
+
+def menu():
+     print("Please select a direction:")
+     steps = directions()
+
+     for index in range(len(steps)):
+        print(f"{index}: {steps[index]}")
+
+def run_task3():
+    menu()
+
+
+if __name__ == "__main__":
+        run_task3()

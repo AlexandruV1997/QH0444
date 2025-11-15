@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23626f39-7985-41c2-a44e-4d27361f20d6" name="Changes" comment="Added code to demonstrate a simple list*">
-      <change beforePath="$PROJECT_DIR$/week5/list_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/list_tasks.py" afterDir="false" />
-    </list>
+    <list default="true" id="23626f39-7985-41c2-a44e-4d27361f20d6" name="Changes" comment="added activity number 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,11 +81,29 @@
       <option name="project" value="LOCAL" />
       <updated>1763209585937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the new activity related to index">
+      <option name="closed" value="true" />
+      <created>1763211716511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763211716511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added activity number 3">
+      <option name="closed" value="true" />
+      <created>1763212958863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763212958865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added code to demonstrate a simple list*" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to demonstrate a simple list*" />
+    <MESSAGE value="Added the new activity related to index" />
+    <MESSAGE value="added activity number 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added activity number 3" />
   </component>
 </project>
